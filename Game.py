@@ -273,10 +273,6 @@ def fighting(enemyName, playerHP, enemyHP, playerDMG, enemyDMG):
         print(f"You were defeated!")
 
 def engine():
-    print("""
-    This game is in development.
-    --- !Do not redistribute when this message is present! ---
-    """)
 
     # ---- AREA TO ADD ANY NOTICES TO THE PLAYER, CONTROLS ETC. ---- #
     print("""
